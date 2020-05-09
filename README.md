@@ -1,3 +1,2 @@
-# symmetrical-waddle
-this repo is a my learning part
-i learnt git and github so have a desi dancer
+# Python-PROjects-
+Here, i will upload my basic projects which are done by in python as am learning python from now so have a good day
