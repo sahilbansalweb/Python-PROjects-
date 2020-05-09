@@ -1,7 +1,7 @@
 """
 Bhai ye h mera project 1 in python sirf try k liye h agar kuch improvements vegara karne honge to bta dena github k help se , so have a good day with me.
                        -----------------------------: MINI PROJECT :------------------------------------
-                                                    GUESS THE NUMBER
+                                                     GUESS THE NUMBER
 """
 
 import random
