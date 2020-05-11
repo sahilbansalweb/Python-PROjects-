@@ -3,10 +3,10 @@
 |------------------------------------<  Generating a sine vs cosine curve  >-------------------------------------------\
 """
 from matplotlib import pyplot as plt
-x = [5,2,7]
-y = [2,16,4]
-plt.plot(x,y)
-plt.title('Info')
-plt.ylabel('Y axis')
-plt.xlabel('X axis')
+import numpy
+
+x = numpy.arange(-2*numpy.pi, 2*numpy.pi, 0.001)
+y=numpy.sin(x)
+z=numpy.cos(x)
+plt.plot(x,y,x,z)
 plt.show()
